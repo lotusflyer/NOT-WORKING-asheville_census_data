@@ -12,6 +12,7 @@ folium = "*"
 requests = "*"
 cenpy = "*"
 pysal = "*"
+mapboxgl = "*"
 
 [requires]
 python_version = "3.6"
